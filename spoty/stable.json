@@ -1,0 +1,28 @@
+{
+  "tag_name": "spoty-v1.7.45",
+  "draft": false,
+  "prerelease": false,
+  "assets": [
+    {
+      "name": "app-arm64-v8a-release.apk",
+      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.45/app-arm64-v8a-release.apk",
+      "size": 22720679,
+      "digest": "sha256:f6b8bea6ab971df657f6137b41d6d3e40e4137e69b11a6058b8f93deb0de3685",
+      "content_type": "application/vnd.android.package-archive"
+    },
+    {
+      "name": "app-armeabi-v7a-release.apk",
+      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.45/app-armeabi-v7a-release.apk",
+      "size": 16584254,
+      "digest": "sha256:b5d625387ce13157d5e7d5b283fcde3d5c358253dc74683394e2e33e3d49e091",
+      "content_type": "application/vnd.android.package-archive"
+    },
+    {
+      "name": "app-universal-release.apk",
+      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.45/app-universal-release.apk",
+      "size": 33235712,
+      "digest": "sha256:7b31976b62aad58d9816b96ef967b59de157239a2e29d98b564dcd02e182a40e",
+      "content_type": "application/vnd.android.package-archive"
+    }
+  ]
+}
