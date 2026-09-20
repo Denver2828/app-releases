@@ -35,7 +35,7 @@ class ManifestValidationTest(unittest.TestCase):
 
     def test_rejects_cross_app_package(self):
         data = valid_manifest()
-        data["packageName"] = "com.you2be.musictv"
+        data["packageName"] = "com.example.not.you2be"
         self.assertIn("packageName does not belong to appId", MODULE.validate(data))
 
     def test_patch_requires_full_fallback(self):
