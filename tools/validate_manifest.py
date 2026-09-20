@@ -8,7 +8,7 @@ import urllib.parse
 
 APP_PACKAGES = {
     "you2be-music": {"com.you2be.music"},
-    "you2be-music-tv": {"com.you2be.musictv"},
+    "you2be-music-tv": {"com.you2be.music"},
     "you2be-video-tv": {
         "com.you2be.videotv.beta",
         "com.you2be.videotv.stable",
