@@ -1,27 +1,27 @@
 {
-  "tag_name": "spoty-v1.7.48",
+  "tag_name": "spoty-v1.7.49",
   "draft": false,
   "prerelease": false,
   "assets": [
     {
       "name": "app-arm64-v8a-release.apk",
-      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.48/app-arm64-v8a-release.apk",
+      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.49/app-arm64-v8a-release.apk",
       "size": 17014951,
-      "digest": "sha256:38ee216a550b9e4356b43b9fd9d98299e837f658ce8d727a037b679ae69108be",
+      "digest": "sha256:0a47d9d11967301467438f751673e51e8d504a6eecbb68cd7331867cf1345830",
       "content_type": "application/vnd.android.package-archive"
     },
     {
       "name": "app-armeabi-v7a-release.apk",
-      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.48/app-armeabi-v7a-release.apk",
-      "size": 13635766,
-      "digest": "sha256:e99690bf9eb74d380a99c0beecc2fdac0fc911bf547caae6d08450d9df4a1bc8",
+      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.49/app-armeabi-v7a-release.apk",
+      "size": 13637526,
+      "digest": "sha256:297815f32d21596857d9c17d97d1f7a77f4fd7f8c8486383228a2872ddd1aec5",
       "content_type": "application/vnd.android.package-archive"
     },
     {
       "name": "app-universal-release.apk",
-      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.48/app-universal-release.apk",
-      "size": 24539904,
-      "digest": "sha256:e32042b34f9641eb93038a7e90278b3ec8baaa6bf55bfff452a828890a0b18a0",
+      "browser_download_url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.49/app-universal-release.apk",
+      "size": 24544000,
+      "digest": "sha256:3a3acc486d407e3d2ea9b43a78f0d8f7fb9b562dd503e8f149dc143971418648",
       "content_type": "application/vnd.android.package-archive"
     }
   ],
@@ -29,49 +29,49 @@
     "schema_version": 1,
     "patches": [
       {
-        "base_version_name": "1.7.47",
-        "base_version_code": 20747,
-        "base_bytes": 16994471,
-        "base_sha256": "8608d2eba7916d6413ffa3fbf91a41424e82a153be766ab6d32c6c293e7ba8b1",
+        "base_version_name": "1.7.48",
+        "base_version_code": 20748,
+        "base_bytes": 17014951,
+        "base_sha256": "38ee216a550b9e4356b43b9fd9d98299e837f658ce8d727a037b679ae69108be",
         "variant": "arm64-v8a",
-        "target_version_name": "1.7.48",
-        "target_version_code": 20748,
+        "target_version_name": "1.7.49",
+        "target_version_code": 20749,
         "target_bytes": 17014951,
-        "target_sha256": "38ee216a550b9e4356b43b9fd9d98299e837f658ce8d727a037b679ae69108be",
-        "asset_name": "app-arm64-v8a-1.7.47-to-1.7.48.patch",
-        "url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.48/app-arm64-v8a-1.7.47-to-1.7.48.patch",
-        "bytes": 5430254,
-        "sha256": "cb651bd101b6f68975047747ab65d55b32d06421629f3db96356b57b3b665ced"
+        "target_sha256": "0a47d9d11967301467438f751673e51e8d504a6eecbb68cd7331867cf1345830",
+        "asset_name": "app-arm64-v8a-1.7.48-to-1.7.49.patch",
+        "url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.49/app-arm64-v8a-1.7.48-to-1.7.49.patch",
+        "bytes": 5381198,
+        "sha256": "54fad5333eed5584b8e066775d328265b6831d67201f28cd25d5e3825a771618"
       },
       {
-        "base_version_name": "1.7.47",
-        "base_version_code": 20747,
-        "base_bytes": 13617338,
-        "base_sha256": "11e3a50de7309881b7186d6078c0e99b0fc80a147f5c43746a08f166f36b6f72",
+        "base_version_name": "1.7.48",
+        "base_version_code": 20748,
+        "base_bytes": 13635766,
+        "base_sha256": "e99690bf9eb74d380a99c0beecc2fdac0fc911bf547caae6d08450d9df4a1bc8",
         "variant": "armeabi-v7a",
-        "target_version_name": "1.7.48",
-        "target_version_code": 20748,
-        "target_bytes": 13635766,
-        "target_sha256": "e99690bf9eb74d380a99c0beecc2fdac0fc911bf547caae6d08450d9df4a1bc8",
-        "asset_name": "app-armeabi-v7a-1.7.47-to-1.7.48.patch",
-        "url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.48/app-armeabi-v7a-1.7.47-to-1.7.48.patch",
-        "bytes": 5314044,
-        "sha256": "d419c477a4c63b7ffb79f35a07e2897968b67448f8f4f7e434fa841c9d48ce6b"
+        "target_version_name": "1.7.49",
+        "target_version_code": 20749,
+        "target_bytes": 13637526,
+        "target_sha256": "297815f32d21596857d9c17d97d1f7a77f4fd7f8c8486383228a2872ddd1aec5",
+        "asset_name": "app-armeabi-v7a-1.7.48-to-1.7.49.patch",
+        "url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.49/app-armeabi-v7a-1.7.48-to-1.7.49.patch",
+        "bytes": 5422092,
+        "sha256": "cf2e510cf91a1f625daf4e6812459c81754bc2b1cd283c3542ef2b5b81f90e53"
       },
       {
-        "base_version_name": "1.7.47",
-        "base_version_code": 20747,
-        "base_bytes": 24523520,
-        "base_sha256": "bb2cb9a7b20f7a01d1417f14552a99a23fc8ae69207e5f73558a8b95b2ce9a64",
+        "base_version_name": "1.7.48",
+        "base_version_code": 20748,
+        "base_bytes": 24539904,
+        "base_sha256": "e32042b34f9641eb93038a7e90278b3ec8baaa6bf55bfff452a828890a0b18a0",
         "variant": "universal",
-        "target_version_name": "1.7.48",
-        "target_version_code": 20748,
-        "target_bytes": 24539904,
-        "target_sha256": "e32042b34f9641eb93038a7e90278b3ec8baaa6bf55bfff452a828890a0b18a0",
-        "asset_name": "app-universal-1.7.47-to-1.7.48.patch",
-        "url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.48/app-universal-1.7.47-to-1.7.48.patch",
-        "bytes": 5474348,
-        "sha256": "6f855ddc190a33a77f9e2fe46f01c57e56bab955243fd310f1380c679e9c8e47"
+        "target_version_name": "1.7.49",
+        "target_version_code": 20749,
+        "target_bytes": 24544000,
+        "target_sha256": "3a3acc486d407e3d2ea9b43a78f0d8f7fb9b562dd503e8f149dc143971418648",
+        "asset_name": "app-universal-1.7.48-to-1.7.49.patch",
+        "url": "https://github.com/Denver2828/app-releases/releases/download/spoty-v1.7.49/app-universal-1.7.48-to-1.7.49.patch",
+        "bytes": 5433485,
+        "sha256": "49ad880a264a1e6a2b5daa3550b21d78b60f20853231083beacca147139eda5b"
       }
     ]
   }
